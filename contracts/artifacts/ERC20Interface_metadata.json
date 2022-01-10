@@ -217,11 +217,11 @@
 	},
 	"sources": {
 		"contracts/yzctoken.sol": {
-			"keccak256": "0xd644b1b2ffe87358ec7d700aa0286ea592b5a1e95a3336746abeccac0d266f3f",
+			"keccak256": "0x1fd8369f4f6e20e979659a953f25fb54fd8eb61dce315c50bcffb29003fe2e45",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://77e90e006a7607bfd91ceb732d600ca88ac0ffc0208d3042c60b95504fb802f9",
-				"dweb:/ipfs/QmW4Tk4V7xXiLExaXgXzF6mHMnZyBiYJBSzdscjYfZPQJa"
+				"bzz-raw://e77a231d00fbee06b7903aa459f13fe68efd14d406b5fdb66cec9f571d9fe1f4",
+				"dweb:/ipfs/QmSjv5wLHXT58pje2KcFG5kt1oouWN1CsCAQhBQ5JGfBg1"
 			]
 		}
 	},
